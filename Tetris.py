@@ -2,7 +2,7 @@ from random import *
 import pygame
 import copy
 
-
+# TEST
 
 SIZE = 20
 GAP = 1
@@ -11,7 +11,6 @@ GRIDY = 20
 SPEED = 1000
 PLAYING = False
 
-# TEST LINE
 
 class Block:
 
