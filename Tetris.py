@@ -2,7 +2,7 @@ from random import *
 import pygame
 import copy
 
-# TEST1
+# TEST2
 
 SIZE = 20
 GAP = 1
